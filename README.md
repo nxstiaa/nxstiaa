@@ -20,7 +20,7 @@
   
 ## 🥯 My Work 
 ### 🎵 [Spotify App with a Twist](https://github.com/ICL-SSE-Group/SSESpotifyProject)
-
+<div style="margin-left: 40px;">
 A smarter way to generate playlists using Spotify's API.
 
 **What makes it special:**
@@ -34,7 +34,7 @@ A smarter way to generate playlists using Spotify's API.
 **Extra functionality:**
 - Developed an algorithm to generate a **secondary playlist**.
 - Recommends songs from the same albums as your selected tracks – discover hidden gems by your favorite artists.
-
+</div>
 ---
 
 ### 💰 [NudgeMe – Financial Planning App](https://github.com/ICL-SSE-Group/NudgeMe)
@@ -57,7 +57,7 @@ Combines personal interest with tech to promote better skin health.
 
 
 ## 🖥 Skills 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,anaconda,gcp,docker,discord,figma,flask,github,gitlab,git,notion,py,vscode&perline=5)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,anaconda,gcp,docker,discord,figma,flask,github,gitlab,git,notion,py,vscode&perline=7)](https://skillicons.dev)  
 <!--
 **nxstiaa/nxstiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
