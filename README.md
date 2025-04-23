@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Nastia
-<img src="https://tenor.com/view/doge-doge-meme-dog-shiba-inu-shiba-gif-14403561217751308271" width="300"/>
+![shibainu](https://tenor.com/view/doge-doge-meme-dog-shiba-inu-shiba-gif-14403561217751308271)
 📍 Based in London, UK </br>
 🎓 MSc Computing @ Imperial College London</br>
 
