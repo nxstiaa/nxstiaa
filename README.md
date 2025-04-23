@@ -17,7 +17,7 @@
 - Full Scholarship -Harvard College Conference (HPAIR)
 - Distinguished Pre-Professional in Biological Sciences
 - 8 Consecutive Dean's List for Bachelor's Degree
-- 
+  
 ## 🥯 My Work 
 ### 🎵 [Spotify App with a Twist](https://github.com/ICL-SSE-Group/SSESpotifyProject)
 
