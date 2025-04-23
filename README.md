@@ -20,7 +20,6 @@
   
 ## 🥯 My Work 
 ### 🎵 [Spotify App with a Twist](https://github.com/ICL-SSE-Group/SSESpotifyProject)
-<div style="margin-left: 40px;">
 A smarter way to generate playlists using Spotify's API.
 
 **What makes it special:**
@@ -34,8 +33,7 @@ A smarter way to generate playlists using Spotify's API.
 **Extra functionality:**
 - Developed an algorithm to generate a **secondary playlist**.
 - Recommends songs from the same albums as your selected tracks – discover hidden gems by your favorite artists.
-</div>
----
+
 
 ### 💰 [NudgeMe – Financial Planning App](https://github.com/ICL-SSE-Group/NudgeMe)
 
@@ -45,7 +43,6 @@ Helps users make smarter financial decisions by combining AI insights with scala
 - Encourages savings through subtle nudges and budget-aware prompts.
 - Built with **Docker & Google Cloud**, using containerization to ensure **scalability** and seamless deployment.
 
----
 
 ### 🧴 [Skincare AI App](https://github.com/nxstiaa/Skincare_platform)
 
