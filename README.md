@@ -8,6 +8,16 @@
 - Took a gap year working in healthcare (Dental)</br>
 - Now diving into Tech, specializing in healthcare AI </br>
 
+## 🚀 My Interests
+💡 Passionate about creative problem-solving & building cool things</br>
+📸 Content creator | ✈️ Travel enthusiast | 🍃 Matcha latte lover</br>
+
+## 🏆 Achievements 
+- Full Scholarship - Bachelor's Degree (Diether H. Haenicke Scholarship)
+- Full Scholarship -Harvard College Conference (HPAIR)
+- Distinguished Pre-Professional in Biological Sciences
+- 8 Consecutive Dean's List for Bachelor's Degree
+- 
 ## 🥯 My Work 
 ### 🎵 [Spotify App with a Twist](https://github.com/ICL-SSE-Group/SSESpotifyProject)
 
@@ -45,16 +55,6 @@ Combines personal interest with tech to promote better skin health.
 - Offers personalized routines and product suggestions.
 - Brings together **health analytics + real-time environmental data** to adapt to your skin’s changing needs.
 
-
-## 🚀 My Interests
-💡 Passionate about creative problem-solving & building cool things</br>
-📸 Content creator | ✈️ Travel enthusiast | 🍃 Matcha latte lover</br>
-
-## 🏆 Achievements 
-- Full Scholarship - Bachelor's Degree (Diether H. Haenicke Scholarship)
-- Full Scholarship -Harvard College Conference (HPAIR)
-- Distinguished Pre-Professional in Biological Sciences
-- 8 Consecutive Dean's List for Bachelor's Degree
 
 ## 🖥 Skills 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,anaconda,gcp,docker,discord,figma,flask,github,gitlab,git,notion,py,vscode&perline=5)](https://skillicons.dev)  
