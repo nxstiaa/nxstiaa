@@ -6,7 +6,7 @@
 ## 🧚 My Background
 - Bachelors Degree: Biomedical Sciences, Chemistry @ Western Michigan University. </br>
 - Took a gap year working in healthcare (Dental)</br>
-- Now diving into Tech, specializing in healthcare AI </br>
+- Now diving into Tech</br>
 
 ## 🚀 My Interests
 💡 Passionate about creative problem-solving & building cool things</br>
