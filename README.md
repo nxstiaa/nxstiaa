@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Nastia
 
-📍 Based in London, UK
-🎓 MSc Computing @ Imperial College London
-🧪 Studied Biomedical Sciences | 🏥 Worked in Healthcare | 💻 Now diving into Tech
-💡 Passionate about creative problem-solving & building cool things
-📸 Content creator | ✈️ Travel enthusiast | 🍵 Matcha latte lover
-Let's Connect!
+📍 Based in London, UK </br>
+🎓 MSc Computing @ Imperial College London</br>
+🧪 Studied Biomedical Sciences | 🏥 Worked in Healthcare | 💻 Now diving into Tech</br>
+💡 Passionate about creative problem-solving & building cool things</br>
+📸 Content creator | ✈️ Travel enthusiast | 🍵 Matcha latte lover</br>
+Let's Connect!</br>
 <!--
 **nxstiaa/nxstiaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
