@@ -17,6 +17,7 @@
 - Distinguished Pre-Professional in Biological Sciences
 - 8 Consecutive Dean's List for Bachelor's Degree
 
+## 🖥 Skills 
 [![My Skills](https://skillicons.dev/icons?i=cpp,html,anaconda,gcp,docker,discord,figma,flask,github,gitlab,git,notion,py,vscode&perline=5)](https://skillicons.dev)  
 Let's Connect!</br>
 <!--
