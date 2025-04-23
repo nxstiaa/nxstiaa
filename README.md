@@ -8,7 +8,7 @@
 - Now diving into Tech, specializing in healthcare AI </br>
 
 ## 🥯 My Work 
-### 🎵 [Spotify App with a Twist](#)
+### 🎵 [Spotify App with a Twist](https://github.com/ICL-SSE-Group/SSESpotifyProject)
 
 A smarter way to generate playlists using Spotify's API.
 
@@ -26,7 +26,7 @@ A smarter way to generate playlists using Spotify's API.
 
 ---
 
-### 💰 [NudgeMe – Financial Planning App](#)
+### 💰 [NudgeMe – Financial Planning App](https://github.com/ICL-SSE-Group/NudgeMe)
 
 Helps users make smarter financial decisions by combining AI insights with scalable infrastructure.
 
@@ -36,7 +36,7 @@ Helps users make smarter financial decisions by combining AI insights with scala
 
 ---
 
-### 🧴 [Skincare AI App](#)
+### 🧴 [Skincare AI App](https://github.com/nxstiaa/Skincare_platform)
 
 Combines personal interest with tech to promote better skin health.
 
